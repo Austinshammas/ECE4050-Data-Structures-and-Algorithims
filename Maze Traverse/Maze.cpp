@@ -1,3 +1,7 @@
+//This program traverses through a maze by always turning right and putting your right hand on the right
+//all. This is done by comparing each “tile” and depending on what the next tile has, it will make a move
+//accordingly. This is done through if statements
+
 #include <iomanip>
 #include <iostream>
 
